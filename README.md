@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am Curious software engineer shifting into DevOps culture, looking forward to be a Sitre Reliability Engineer.
+Interested in building infrastructure and reliable CI/CD processes that improves the quality of life of engineers and helps business to deliver faster with more confidence.
+I came from backend development background with experience in Go, Python, SQL, and Java in microservices architecture. My main focus currently is on K8s, CI/CD, AWS.
+
+
+🌱 I’m currently learning platform infrastructures and working my way to become an SRE.
+
+
 <!--
 **schehata/schehata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
